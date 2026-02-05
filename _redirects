@@ -1,0 +1,2 @@
+https://pipewrench.pages.dev/ https://pipewrench.org/ 301
+https://pipewrench.pages.dev/* https://pipewrench.org/:splat 301
